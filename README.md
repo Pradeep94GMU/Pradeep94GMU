@@ -6,10 +6,15 @@
 A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.
 
 ## Skills and Experience
-* [java](https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138)
-* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/80137815-f0e0-4adc-b415-b719b30d04ad)
-* https://camo.githubusercontent.com/02660457c8f38de2a1a51406de517602b06521304cb6b07030f5bf8ddef667ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43266c6f676f436f6c6f723d413842394343
-* 
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/c96c8a70-8a00-45f0-ba5b-36142736a592)
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/2b3b614a-d3a8-4f3b-98bd-6c8a7d067c0f)
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/3e3792bf-200d-4712-961c-01142d769935)
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/e1145f8d-5b16-4d4f-85f7-fe6f725c4d68)
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/a81ed37d-6faa-4508-9108-a4294d46f4d3)
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/ad72e5a8-403c-4d33-b0f6-681d12b70bbd)
+
+
+
 
 Skills: JAVA/ SQL/ Python / JS / HTML / CSS/ Docker
 
