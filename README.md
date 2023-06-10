@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
+[![MasterHead](![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/eb6d6819-a2cd-4164-9b61-b933151d4d5b))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
 <h3 align="center">A passionate Full Stack developer pursing masters degree from George Mason University</h3>
