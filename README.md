@@ -1,20 +1,29 @@
 [![MasterHead](https://i.pinimg.com/originals/89/2e/8b/892e8b39f44fa8fedd2be543dd3f5289.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
-<h3 align="center">A passionate Full Stack developer pursing masters degree from George Mason University</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<h3 align="center">A passionate Full Stack developer pursuing a master's degree from George Mason University</h3>
 
-- 🔭 I’m currently working on **Building a Expence Tracker Web application**
+<table>
+<tr>
+<td>
 
+- 🔭 I’m currently working on **Building an Expense Tracker Web application**
 - 🌱 I’m currently learning **Full Stack and Docker**
-
 - 💬 Ask me about **Java, Sql, Chatgpt**
-
 - 📫 How to reach me **pradeep.ranjan7837@gmail.com**
-
-- 📄 Know about my experiences [A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.](A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.)
-
+- 📄 Know about my experiences [A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.]
 - ⚡ Fun fact **Good with creating memory with my Photography Skills**
+
+</td>
+<td>
+  
+<div align="right">
+<img src="https://cdn.dribbble.com/users/14374/screenshots/3153764/junior.gif" width="350">
+</div>
+  
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
