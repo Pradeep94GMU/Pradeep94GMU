@@ -1,7 +1,7 @@
 ### Hi there 👋, Myself Pradeep Ranjan
 
 #### Full-Stack Developer
-![Full-Stack Developer](https://github.com/Pradeep94GMU/Pradeep94GMU/blob/main/3d-render-code-testing-functional-test-usability%20(convert.io).jpg)
+![Full-Stack Developer](https://github.com/Pradeep94GMU/Pradeep94GMU/blob/main/Gaming.gif)
 
 A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.
 
