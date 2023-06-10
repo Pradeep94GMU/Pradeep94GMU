@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/eb6d6819-a2cd-4164-9b61-b933151d4d5b))](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/89/2e/8b/892e8b39f44fa8fedd2be543dd3f5289.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
 <h3 align="center">A passionate Full Stack developer pursing masters degree from George Mason University</h3>
