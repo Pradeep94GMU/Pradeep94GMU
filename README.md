@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
 <h3 align="center">A passionate Full Stack developer pursing masters degree from George Mason University</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 
 - 🔭 I’m currently working on **Building a Expence Tracker Web application**
 
