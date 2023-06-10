@@ -1,5 +1,5 @@
 ### Hi there 👋, Myself Pradeep Ranjan
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aPradeep94GMU&show_icons=true)
 #### Full-Stack Developer
 ![Full-Stack Developer](https://github.com/Pradeep94GMU/Pradeep94GMU/blob/main/3d-render-code-testing-functional-test-usability%20(convert.io).jpg)
 
