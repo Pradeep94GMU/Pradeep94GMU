@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/89/2e/8b/892e8b39f44fa8fedd2be543dd3f5289.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io"><img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="MasterHead" width="1020" height="450"></a>
+
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
 <h3 align="center">A passionate Full Stack developer pursuing a master's degree from George Mason University</h3>
