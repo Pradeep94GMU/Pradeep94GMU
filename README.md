@@ -6,7 +6,9 @@
 A computer science graduate student at George Mason University, with a strong background in Java, Python, C, SQL, and web development. I have 4 years of Software Industry experience. I am passionate about learning new technologies and applying them to real-world problems.
 
 ## Skills and Experience
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+* java
+* ![image](https://github.com/Pradeep94GMU/Pradeep94GMU/assets/111266003/80137815-f0e0-4adc-b415-b719b30d04ad)
+
 Skills: JAVA/ SQL/ Python / JS / HTML / CSS/ Docker
 
 - 🔭 I’m currently working on Building Web Apps 
