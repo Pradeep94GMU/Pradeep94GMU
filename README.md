@@ -8,7 +8,8 @@
 <tr>
 <td>
 
-- 🔭 I’m currently working on **Building an Expense Tracker Web application**
+- 🔭 I have **Developed an ML model using Python for Human Activity Recognition, achieving 93% accuracy through data preprocessing and cross-validation techniques**.
+- I led backend development, **designed 12 RESTful APIs, and optimized the SQL database schema, resulting in a 30% efficiency boost and a 25% improvement in query performance**.
 - 🌱 I’m currently learning **Full Stack and Docker**
 - 💬 Ask me about **Java, Sql, Chatgpt**
 - 📫 How to reach me **pradeep.ranjan7837@gmail.com**
