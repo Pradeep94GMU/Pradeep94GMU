@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pradeep Ranjan</h1>
-<h3 align="center">A passionate Full Stack developer pursuing a master's degree from George Mason University</h3>
+<h3 align="center">A passionate Full Stack developer with a master's degree in CS</h3>
 
 <table>
 <tr>
